@@ -45,4 +45,4 @@ ITE College West, Jan 2014 - Dec 2015
 ## 📫 Contact
 
 📧 douglastham_@hotmail.com
-🔗 [LinkedIn](www.linkedin.com/in/tham-wai-hong-douglas)
+🔗 [LinkedIn](http://linkedin.com/in/tham-wai-hong-douglas)
