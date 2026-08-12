@@ -30,7 +30,7 @@
 ### 🏦 Singapore Banks Stock Analysis
 *Analyzed 5 years of stock data for DBS, OCBC, and UOB to answer 4 business questions (volatility, liquidity, market peaks, and recovery speed).*
 
-👉 [View Project]([https://github.com/Salguod310/singapore-banks-stock-analysis]
+👉 [View Project][https://github.com/Salguod310/singapore-banks-stock-analysis]
 
 ---
 
