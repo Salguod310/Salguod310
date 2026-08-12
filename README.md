@@ -12,8 +12,8 @@ I turn raw data into actionable business insights.
 
 ## 🛠️ Skills & Tools
 
-- Languages: Python (Pandas, NumPy), SQL
-- Visualization: Power BI, Tableau
+- Languages: C, Python (Pandas, NumPy), SQL, MATLAB
+- Visualization: Power BI
 - Databases: MySQL, SQLite
 - Other: Data Cleaning, Feature Engineering, yfinance
 
