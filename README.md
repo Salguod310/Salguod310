@@ -3,7 +3,10 @@
 🎓 Data Analyst | Python, SQL, Power BI  
 📍 Singapore  
 
-I turn raw data into actionable business insights.  
+👋 I turn raw data into actionable business insights. 
+👀 I’m interested in AI/ML engineering and data analysis, especially predictive modelling and automation.
+🌱 Skilled in Python, C, MATLAB, SQL, and Power BI; soon Java. 
+💞️ I’m looking to collaborate on AI/ML engineering and data analytics projects, particularly those involving predictive models, data-driven automation, and tools like Python, SQL, and Power BI.
 
 🔗 [LinkedIn](http://linkedin.com/in/tham-wai-hong-douglas)  
 📄 [Resume](https://docs.google.com/document/d/1l2loBqdIcF28GTIJaIed6f7WNYz6YV2epw8bu-p1uY4/edit?usp=sharing)
