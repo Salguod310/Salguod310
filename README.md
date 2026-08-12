@@ -6,7 +6,7 @@
 I turn raw data into actionable business insights.  
 
 🔗 [LinkedIn](www.linkedin.com/in/tham-wai-hong-douglas)  
-📄 [Resume available upon request]
+📄 [Resume]([link-to-your-resume](https://docs.google.com/document/d/1l2loBqdIcF28GTIJaIed6f7WNYz6YV2epw8bu-p1uY4/edit?usp=sharing))
 
 ---
 
