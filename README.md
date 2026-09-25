@@ -30,13 +30,13 @@
 ### 🏦 Singapore Banks Stock Analysis
 *Analyzed 5 years of stock data for DBS, OCBC, and UOB to answer 4 business questions (volatility, liquidity, market peaks, and recovery speed).*
 
-👉 [View Project][https://github.com/Salguod310/singapore-banks-stock-analysis]
+👉 [View Project](https://github.com/Salguod310/singapore-banks-stock-analysis)
 
 ## 📈 Quantitative Pairs Trading Strategy
 
 *Built a pairs trading backtest for 12 SGX-listed stocks using cointegration, backtesting, and machine learning. Identified SingTel vs CapitaLand as the strongest cointegrated pair (p = 0.000229).*
 
-👉 [View Project][https://github.com/Salguod310/quant-pairs-trading)
+👉 [View Project](https://github.com/Salguod310/quant-pairs-trading)
 
 ---
 
