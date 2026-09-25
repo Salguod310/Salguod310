@@ -32,6 +32,12 @@
 
 👉 [View Project][https://github.com/Salguod310/singapore-banks-stock-analysis]
 
+## 📈 Quantitative Pairs Trading Strategy
+
+*Built a pairs trading backtest for 12 SGX-listed stocks using cointegration, backtesting, and machine learning. Identified SingTel vs CapitaLand as the strongest cointegrated pair (p = 0.000229).*
+
+👉 [View Project][https://github.com/Salguod310/quant-pairs-trading)
+
 ---
 
 ## 🎓 Education
